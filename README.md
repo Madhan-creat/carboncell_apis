@@ -17,7 +17,7 @@ Please make sure your system has following things before setting up the project
 
 ## Instalation Steps
 1. git clone git@github.com:Madhan-creat/carboncell_apis.git
-2. cd 
+2. cd CARBON_ASSESSMENT
 3. npm install
 4. Open your MySqlShell and execute folowing steps in sequence
     - 4.1 ```\sql``` --> this switches shell to support sql commands
